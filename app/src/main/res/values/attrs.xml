@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="login_register">
+        <attr name="state_login" format="boolean" />
+        <attr name="state_register" format="boolean" />
+    </declare-styleable>
+</resources>
